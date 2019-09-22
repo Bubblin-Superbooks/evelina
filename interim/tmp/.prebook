@@ -4,8 +4,12 @@
     "innerHtml": "Dedication"
   },
   {
+    "tag": "p",
+    "innerHtml": "To Fanny Burney"
+  },
+  {
     "tag": "blockquote",
-    "innerHtml": "<p>To Fanny Burney\nORIGINAL INSCRIPTION: TO DR. BURNEY\n       Oh, Author of my being!-far more dear\n         To me than light, than nourishment, or rest, \n       Hygeia’s blessings, Rapture’s burning tear, \n         Or the life-blood that mantles in my breast!\n       If in my heart the love of Virtue glows, \n         ’T was planted there by an unerring rule;\n       From thy example the pure flame arose, \n         Thy life, my precept,-thy good works, my school.\n       Could my weak pow’rs thy num’rous virtues trace, \n         By filial love each fear should be repress’d, \n       The blush of Incapacity I’d chace, \n         And stand, Recorder of thy worth, confess’d:\n       But since my niggard stars that gift refuse, \n         Concealment is the only boon I claim;\n       Obscure be still the unsuccessful Muse, \n         Who cannot raise, but would not sink, thy fame.\n       Oh! of my life at once the source and joy!\n         If e’er thy eyes these feeble lines survey, \n       Let not their folly their intent destroy;\n         Accept the tribute-but forget the lay.</p>"
+    "innerHtml": "<p> Oh, Author of my being!-far more dear\n   To me than light, than nourishment, or rest, \n Hygeia’s blessings, Rapture’s burning tear, \n   Or the life-blood that mantles in my breast!\n If in my heart the love of Virtue glows, \n   ’T was planted there by an unerring rule;\n From thy example the pure flame arose, \n   Thy life, my precept,-thy good works, my school.\n Could my weak pow’rs thy num’rous virtues trace, \n   By filial love each fear should be repress’d, \n The blush of Incapacity I’d chace, \n   And stand, Recorder of thy worth, confess’d:\n But since my niggard stars that gift refuse, \n   Concealment is the only boon I claim;\n Obscure be still the unsuccessful Muse, \n   Who cannot raise, but would not sink, thy fame.\n Oh! of my life at once the source and joy!\n   If e’er thy eyes these feeble lines survey, \n Let not their folly their intent destroy;\n   Accept the tribute-but forget the lay.</p>"
   },
   {
     "tag": "hr",
@@ -41,7 +45,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   It droppeth like the gentle rain from heaven Upon the place\n   beneath,-</pre>"
+    "innerHtml": "<p> It droppeth like the gentle rain from heaven Upon the place\n beneath,-</p>"
   },
   {
     "tag": "p",
@@ -49,7 +53,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   The penalty and forfeit of your bond.</pre>"
+    "innerHtml": "<p> The penalty and forfeit of your bond.</p>"
   },
   {
     "tag": "p",
@@ -57,7 +61,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   Oblig’d by hunger-and request of friends,-</pre>\n<p>implore your lenity: your examination will be alike unbiassed by partiality and prejudice;-no refractory murmuring will follow your censure, no private interest will be gratified by your praise.</p>"
+    "innerHtml": "<p> Oblig’d by hunger-and request of friends,-\nimplore your lenity: your examination will be alike unbiassed by partiality and prejudice;-no refractory murmuring will follow your censure, no private interest will be gratified by your praise.</p>"
   },
   {
     "tag": "p",
@@ -72,12 +76,8 @@
     "innerHtml": "In addressing you jointly, I mean but to mark the generous sentiments by which liberal criticism, to the utter annihilation of envy, jealousy, and all selfish views, ought to be distinguished."
   },
   {
-    "tag": "p",
-    "innerHtml": "I have the honour to be,"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>  GENTLEMEN, >       Your most obedient\n          Humble Servant, >               \\\\ \\\\</p>"
+    "tag": "pre",
+    "innerHtml": "I have the honour to be, \n   GENTLEMEN, \n      Your most obedient\n         Humble Servant"
   },
   {
     "tag": "hr",
@@ -109,11 +109,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Let me, therefore, prepare for disappointment those who, in the perusal of these sheets, entertain the gentle expectation of being transported to the fantastic regions of Romance, where Fiction is coloured by all the gay tints of luxurious Imagination, where Reason is an outcast, and where the sublimity of the Marvellous rejects all aid from sober Probability. The heroine of these memoirs, young, artless, and inexperienced, is"
+    "innerHtml": "Let me, therefore, prepare for disappointment those who, in the perusal of these sheets, entertain the gentle expectation of being transported to the fantastic regions of Romance, where Fiction is coloured by all the gay tints of luxurious Imagination, where Reason is an outcast, and where the sublimity of the Marvellous rejects all aid from sober Probability. The heroine of these memoirs, young, artless, and inexperienced, is:"
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   No faultless Monster that the world ne’er saw;</pre>\n<p>but the offspring of Nature, and of Nature in her simplest attire.</p>"
+    "innerHtml": "<p> No faultless Monster that the world ne’er saw;\nbut the offspring of Nature, and of Nature in her simplest attire.</p>"
   },
   {
     "tag": "p",
@@ -133,7 +133,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": ")However superior the capacities in which these great writers deserve to be considered, they must pardon me that, for the dignity of my subject, I here rank the authors of Rasselas and Eloise as Novelists."
+    "innerHtml": "However superior the capacities in which these great writers deserve to be considered, they must pardon me that, for the dignity of my subject, I here rank the authors of Rasselas and Eloise as Novelists."
   },
   {
     "tag": "hr",
@@ -5160,8 +5160,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>M. Du Bois had escaped, I hoped, when she recovered from her fright, all would end well.\n“Fright, child!” repeated she,-“why that’s not half:-I promise you, I wish it\nwas: but here I’m bruised from top to toe and it’s well if ever I have\nthe right use of my limbs again. However, I’m glad the villain got\nnothing but his trouble for his pains. But here the worst is to come, for I can’t go out, because I’ve got no curls, and so he’ll be escaped\nbefore I can get to the justice to stop him. I’m resolved I’ll tell\nLady Howard how her man served me; for if he hadn’t made me fling\n?em away, I dare say I would have pinned them up well enough for\nthe country.”</p>"
+    "tag": "p",
+    "innerHtml": "M. Du Bois had escaped, I hoped, when she recovered from her fright, all would end well.\n“Fright, child!” repeated she,-“why that’s not half:-I promise you, I wish it\nwas: but here I’m bruised from top to toe and it’s well if ever I have\nthe right use of my limbs again. However, I’m glad the villain got\nnothing but his trouble for his pains. But here the worst is to come, for I can’t go out, because I’ve got no curls, and so he’ll be escaped\nbefore I can get to the justice to stop him. I’m resolved I’ll tell\nLady Howard how her man served me; for if he hadn’t made me fling\n?em away, I dare say I would have pinned them up well enough for\nthe country.”"
   },
   {
     "tag": "p",
@@ -6101,7 +6101,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   O LIFE! thou lingering dream of grief, of pain, And every\n   ill that Nature can sustain, >           Strange, mutable, and wild!\n   Now flattering with Hope most fair, Depressing now with\n   fell Despair, >          The nurse of Guilt, the slave of Pride, >            That, like a wayward child, >          Who, to himself a foe, >        Sees joy alone in what’s denied, >            In what is granted, woe!\n   O thou poor, feeble, fleeting, pow’r, By Vice seduc’d, by\n   Folly woo’d, By Mis’ry, Shame, Remorse, pursu’d; And as thy\n   toilsome steps proceed, Seeming to Youth the fairest flow’r, >        Proving to Age the rankest weed, >            A gilded but a bitter pill, >        Of varied, great, and complicated ill!</pre>"
+    "innerHtml": "<p> O LIFE! thou lingering dream of grief, of pain, And every\n ill that Nature can sustain,\n      Strange, mutable, and wild!\n Now flattering with Hope most fair, Depressing now with\n fell Despair,\n     The nurse of Guilt, the slave of Pride,\n       That, like a wayward child,\n     Who, to himself a foe,\n   Sees joy alone in what’s denied,\n       In what is granted, woe!\n O thou poor, feeble, fleeting, pow’r, By Vice seduc’d, by\n Folly woo’d, By Mis’ry, Shame, Remorse, pursu’d; And as thy\n toilsome steps proceed, Seeming to Youth the fairest flow’r,\n   Proving to Age the rankest weed,\n       A gilded but a bitter pill,\n   Of varied, great, and complicated ill!</p>"
   },
   {
     "tag": "p",
@@ -6257,7 +6257,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>  He look’d a bloodless image of despair.-POPE.</pre>"
+    "innerHtml": "<p>He look’d a bloodless image of despair.-POPE.</p>"
   },
   {
     "tag": "p",
@@ -6837,7 +6837,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>  Grove nods at grove, each alley has its brother.</pre>"
+    "innerHtml": "<p>Grove nods at grove, each alley has its brother.</p>"
   },
   {
     "tag": "p",
@@ -8997,7 +8997,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>  “My Lord, \n  “I am so infinitely ashamed of the application made yesterday\n  for your Lordship’s carriage in my name, and so greatly\n  shocked at hearing how much it was injured, that I cannot\n  forbear writing a few lines, to clear myself from the\n  imputation of an impertinence which I blush to be suspected\n  of, and to acquaint you, that the request for your carriage\n  was made against my consent, and the visit with which you were\n  importuned this morning without my knowledge.\n  “I am inexpressibly concerned at having been the instrument, >       however innocently, of so much trouble to your Lordship; but I\n  beg you to believe, that the reading these lines is the only\n  part of it which I have given voluntarily. I am, my Lord, \n  “Your Lordship’s most Humble servant, “EVELINA ANVILLE.”</pre>"
+    "innerHtml": "<p>“My Lord, \n“I am so infinitely ashamed of the application made yesterday\nfor your Lordship’s carriage in my name, and so greatly\nshocked at hearing how much it was injured, that I cannot\nforbear writing a few lines, to clear myself from the\nimputation of an impertinence which I blush to be suspected\nof, and to acquaint you, that the request for your carriage\nwas made against my consent, and the visit with which you were\nimportuned this morning without my knowledge.\n“I am inexpressibly concerned at having been the instrument,\n  however innocently, of so much trouble to your Lordship; but I\nbeg you to believe, that the reading these lines is the only\npart of it which I have given voluntarily. I am, my Lord, \n“Your Lordship’s most Humble servant, “EVELINA ANVILLE.”</p>"
   },
   {
     "tag": "p",
@@ -9265,7 +9265,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   “To Miss Anville.\n   “With transport, most charming of thy sex, did I read\n   the letter\n  with which you yesterday morning favoured me. I am sorry the\n  affair of the carriage should have given you any concern, \n  but I am highly flattered by the anxiety you express so\n  kindly. Believe me, my lovely girl, I am truly sensible\n  to the honour of your good opinion, and feel myself deeply\n  penetrated with love and gratitude. The correspondence you\n  have so sweetly commenced, I shall be proud of continuing;\n  and I hope the strong sense I have of the favour you do me\n  will prevent your withdrawing it. Assure yourself, that I\n  desire nothing more ardently than to pour forth my thanks at\n  your feet, and to offer those vows which are so justly the\n  tribute of your charms and accomplishments. In your next\n  I intreat you to acquaint me how long you shall remain in\n  town. The servant, whom I shall commission to call for an\n  answer, has orders to ride post with it to me. My impatience\n  for his arrival will be very great, though inferior to that\n  with which I burn to tell you, in person, how much I am, \n  my sweet girl, your grateful admirer, “ORVILLE.”</pre>"
+    "innerHtml": "<p> “To Miss Anville.\n “With transport, most charming of thy sex, did I read\n the letter\nwith which you yesterday morning favoured me. I am sorry the\naffair of the carriage should have given you any concern, \nbut I am highly flattered by the anxiety you express so\nkindly. Believe me, my lovely girl, I am truly sensible\nto the honour of your good opinion, and feel myself deeply\npenetrated with love and gratitude. The correspondence you\nhave so sweetly commenced, I shall be proud of continuing;\nand I hope the strong sense I have of the favour you do me\nwill prevent your withdrawing it. Assure yourself, that I\ndesire nothing more ardently than to pour forth my thanks at\nyour feet, and to offer those vows which are so justly the\ntribute of your charms and accomplishments. In your next\nI intreat you to acquaint me how long you shall remain in\ntown. The servant, whom I shall commission to call for an\nanswer, has orders to ride post with it to me. My impatience\nfor his arrival will be very great, though inferior to that\nwith which I burn to tell you, in person, how much I am, \nmy sweet girl, your grateful admirer, “ORVILLE.”</p>"
   },
   {
     "tag": "p",
@@ -10865,7 +10865,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>    “To Mr. Macartney.\n   “SIR, \n   “As it will not be in my power to walk out to-morrow morning, >        I would\n  by no means give you the trouble of coming to Clifton.  I hope, >       however, to have the pleasure of seeing you before you quit\n  Bristol.  I am, Sir, your obedient servant, “EVELINA ANVILLE.”</pre>"
+    "innerHtml": "<p>  “To Mr. Macartney.\n “SIR, \n “As it will not be in my power to walk out to-morrow morning,\n   I would\nby no means give you the trouble of coming to Clifton.  I hope,\n  however, to have the pleasure of seeing you before you quit\nBristol.  I am, Sir, your obedient servant, “EVELINA ANVILLE.”</p>"
   },
   {
     "tag": "p",
@@ -12289,7 +12289,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   See last advance, with bashful grace, >          Downcast eye, and blushing cheek, >        Timid air, and beauteous face, >          Anville,-whom the Graces seek.\n   Though ev’ry beauty is her own, >          And though her mind each virtue fills, >        Anville,-to her power unknown, >          Artless strikes,-unconscious kills.</pre>"
+    "innerHtml": "<p> See last advance, with bashful grace,\n     Downcast eye, and blushing cheek,\n   Timid air, and beauteous face,\n     Anville,-whom the Graces seek.\n Though ev’ry beauty is her own,\n     And though her mind each virtue fills,\n   Anville,-to her power unknown,\n     Artless strikes,-unconscious kills.</p>"
   },
   {
     "tag": "p",
@@ -13689,7 +13689,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   “To Sir John Belmont, Bart.”\n  “MRS. SELWYN presents her compliments to Sir John Belmont;\n  and, if he is at leisure, will be glad to wait on him this\n  morning, upon business of importance.”</pre>"
+    "innerHtml": "<p> “To Sir John Belmont, Bart.”\n“MRS. SELWYN presents her compliments to Sir John Belmont;\nand, if he is at leisure, will be glad to wait on him this\nmorning, upon business of importance.”</p>"
   },
   {
     "tag": "p",
@@ -14477,7 +14477,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>   “To Miss Anville.\n    “I HAVE this moment received intelligence that preparations\n    are actually making for your marriage with Lord Orville.\n    “Imagine not that I write with the imbecile idea of\n    rendering those\n  preparations abortive. No, I am not so mad. My sole view is\n  to explain the motive of my conduct in a particular instance, \n  and to obviate the accusation of treachery which may be laid\n  to my charge.\n    “My unguarded behaviour, when I last saw you, has, probably, \n    already\n  acquainted you, that the letter I then saw you reading was\n  written by myself. For your further satisfaction, let me have\n  the honour of informing you, that the letter you had designed\n  for Lord Orville, had fallen into my hands.\n    “However I may have been urged on by a passion the most\n    violent that\n  ever warmed the heart of man, I can by no means calmly submit\n  to be stigmatized for an action seemingly so dishonourable;\n  and it is for this reason that I trouble you with this\n  justification.\n    “Lord Orville,-the happy Orville, whom you are so ready to\n  bless,-had made me believe he loved you not;-nay, that he\n  held you in contempt.\n    “Such were my thoughts of his sentiments of you, when I got\n  possession of the letter you meant to send him. I pretend\n  not to vindicate either the means I used to obtain it, or\n  the action of breaking the seal; but I was impelled, by an\n  impetuous curiosity, to discover the terms upon which you\n  wrote to him.\n    “The letter, however, was wholly unintelligible to me, \n    and the perusal of it only added to my perplexity.\n    “A tame suspense I was not born to endure, and I determined\n    to clear\n  my doubts at all hazards and events.\n    “I answered it, therefore, in Orville’s name.\n    “The views which I am now going to acknowledge, must, \n    infallibly, incur your displeasure;-yet I scorn all palliation.\n    “Briefly, then, I concealed your letter to prevent a\n    discovery of your capacity; and I wrote you an answer, \n  which I hoped would prevent your wishing for any other.\n    “I am well aware of every thing which can be said upon this subject.\n  Lord Orville will, possibly, think himself ill-used; but I am\n  extremely indifferent as to his opinion; nor do I now write\n  by way of offering any apology to him, but merely to make\n  known to yourself the reasons by which I have been governed.\n    “I intend to set off next week for the Continent. Should his\n  Lordship have any commands for me in the mean time, I shall\n  be glad to receive them. I say not this by way of defiance,-I\n  should blush to be suspected of so doing through an indirect\n  channel; but simply that, if you show him this letter, he\n  may know I dare defend, as well as excuse, my conduct.\n   –“CLEMENT WILLOUGHBY.”</pre>"
+    "innerHtml": "<p> “To Miss Anville.\n  “I HAVE this moment received intelligence that preparations\n  are actually making for your marriage with Lord Orville.\n  “Imagine not that I write with the imbecile idea of\n  rendering those\npreparations abortive. No, I am not so mad. My sole view is\nto explain the motive of my conduct in a particular instance, \nand to obviate the accusation of treachery which may be laid\nto my charge.\n  “My unguarded behaviour, when I last saw you, has, probably, \n  already\nacquainted you, that the letter I then saw you reading was\nwritten by myself. For your further satisfaction, let me have\nthe honour of informing you, that the letter you had designed\nfor Lord Orville, had fallen into my hands.\n  “However I may have been urged on by a passion the most\n  violent that\never warmed the heart of man, I can by no means calmly submit\nto be stigmatized for an action seemingly so dishonourable;\nand it is for this reason that I trouble you with this\njustification.\n  “Lord Orville,-the happy Orville, whom you are so ready to\nbless,-had made me believe he loved you not;-nay, that he\nheld you in contempt.\n  “Such were my thoughts of his sentiments of you, when I got\npossession of the letter you meant to send him. I pretend\nnot to vindicate either the means I used to obtain it, or\nthe action of breaking the seal; but I was impelled, by an\nimpetuous curiosity, to discover the terms upon which you\nwrote to him.\n  “The letter, however, was wholly unintelligible to me, \n  and the perusal of it only added to my perplexity.\n  “A tame suspense I was not born to endure, and I determined\n  to clear\nmy doubts at all hazards and events.\n  “I answered it, therefore, in Orville’s name.\n  “The views which I am now going to acknowledge, must, \n  infallibly, incur your displeasure;-yet I scorn all palliation.\n  “Briefly, then, I concealed your letter to prevent a\n  discovery of your capacity; and I wrote you an answer, \nwhich I hoped would prevent your wishing for any other.\n  “I am well aware of every thing which can be said upon this subject.\nLord Orville will, possibly, think himself ill-used; but I am\nextremely indifferent as to his opinion; nor do I now write\nby way of offering any apology to him, but merely to make\nknown to yourself the reasons by which I have been governed.\n  “I intend to set off next week for the Continent. Should his\nLordship have any commands for me in the mean time, I shall\nbe glad to receive them. I say not this by way of defiance,-I\nshould blush to be suspected of so doing through an indirect\nchannel; but simply that, if you show him this letter, he\nmay know I dare defend, as well as excuse, my conduct.\n –“CLEMENT WILLOUGHBY.”</p>"
   },
   {
     "tag": "p",
@@ -14489,7 +14489,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>    “To Sir Clement Willoughby.\n   “SIR, \n   “The letter you have been pleased to address to me, is\n   so little\n  calculated to afford Lord Orville any satisfaction, that you\n  may depend upon my carefully keeping it from his sight. I will\n  bear you no resentment for what is past; but I most earnestly\n  intreat, nay implore, that you will not write again, while in\n  your present frame of mind, by any channel, direct or indirect.\n   “I hope you will have much pleasure in your promised\n   expedition; and\n  I beg leave to assure you of my good wishes.”</pre>"
+    "innerHtml": "<p>“To Sir Clement Willoughby.\n “SIR, \n“The letter you have been pleased to address to me, is\nso little calculated to afford Lord Orville any satisfaction, that you\nmay depend upon my carefully keeping it from his sight. I will\nbear you no resentment for what is past; but I most earnestly\nintreat, nay implore, that you will not write again, while in\nyour present frame of mind, by any channel, direct or indirect.\n“I hope you will have much pleasure in your promised\n expedition; and I beg leave to assure you of my good wishes.”</p>"
   },
   {
     "tag": "p",

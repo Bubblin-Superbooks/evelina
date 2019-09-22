@@ -95,10 +95,11 @@ a:active {
 }
 
 p {
-  text-indent: 5vw;
+  text-indent: 0;
   margin: 0 0 0 0;
 }
 
+/*
 p.start-chapter {
   text-indent: 0;
   margin: calc(5 * 4vw * 1.50 - 2px) auto 0;
@@ -108,11 +109,11 @@ p.start-chapter:first-letter {
   display: inline-block;
   margin: 0 1vw 0 0;
   float: left;
-  font-size: calc(3 * 4vw); /* three times normal size */
+  font-size: calc(3 * 4vw); 
   line-height: calc(2 * 4vw * 1.50 * 0.95);
   font-family: 'Berkshire Swash', cursive;
 }
-
+*/
 
 blockquote {
   text-align: center;
